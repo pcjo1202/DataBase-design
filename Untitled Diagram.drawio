@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T01:10:10.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="vfWTneMPxPw7MLcon_sb" version="17.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-29T01:10:48.455Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="aS_2SjCmnOesb8w3Ole9" version="17.2.4" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yh8TEmJAx11sRHY0r4fa" name="페이지-2">
-    <mxGraphModel dx="246" dy="170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="1977" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -624,7 +624,7 @@
         <mxCell id="W4EZSCJUI8Ll_A1TM4nE-55" value="속성" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="60" y="390" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W4EZSCJUI8Ll_A1TM4nE-56" value="key Attribute" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="W4EZSCJUI8Ll_A1TM4nE-56" value="기본키" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="60" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YgBSAFYVP--94m2rDuel-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="W4EZSCJUI8Ll_A1TM4nE-3" target="W4EZSCJUI8Ll_A1TM4nE-3" edge="1">
