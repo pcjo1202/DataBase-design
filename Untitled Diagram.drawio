@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T07:54:27.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="u73N8jYWW7TjWoh4-m9g" version="17.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-06T11:00:01.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="PsQ1KDnLmt4cNjx3R-8d" version="17.4.0" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="801" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1187" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -403,7 +403,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yh8TEmJAx11sRHY0r4fa" name="페이지-2">
-    <mxGraphModel dx="1678" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="1319" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1193,7 +1193,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="새로만든ER" id="2GzLH_4WIciSw14zlZM8">
-    <mxGraphModel dx="1696" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="1RqdT5DitXX3wgnCchq0-0" />
         <mxCell id="1RqdT5DitXX3wgnCchq0-1" parent="1RqdT5DitXX3wgnCchq0-0" />
@@ -1204,7 +1204,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1020" y="755" />
-              <mxPoint x="1020" y="713" />
+              <mxPoint x="1020" y="683" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1248,6 +1248,14 @@
         </mxCell>
         <mxCell id="KoQXWJKS_4Kf0iBO2UZz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=ERzeroToOne;endFill=0;" parent="1RqdT5DitXX3wgnCchq0-1" source="1RqdT5DitXX3wgnCchq0-5" target="fKE9kQ6PDIqc-l9Jf2Fu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ikFihaIRC0mjorbZHWEY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1RqdT5DitXX3wgnCchq0-1" source="1RqdT5DitXX3wgnCchq0-5" target="ikFihaIRC0mjorbZHWEY-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="755" />
+              <mxPoint x="1020" y="713" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="1RqdT5DitXX3wgnCchq0-5" value="주문하다" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;rounded=1;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
           <mxGeometry x="896" y="728" width="97" height="53.5" as="geometry" />
@@ -1619,7 +1627,7 @@
           <mxGeometry x="440" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="erjdDKIntgee-eto2-Ga-7" value="주문정보" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
-          <mxGeometry x="1049" y="698" width="60" height="30" as="geometry" />
+          <mxGeometry x="1048" y="668" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C9YPpQGH4qhq2CTPb2nr-0" value="주문일" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
           <mxGeometry x="1046" y="763" width="60" height="30" as="geometry" />
@@ -1749,6 +1757,9 @@
         </mxCell>
         <mxCell id="5IhP2NH6ctQPZvxbodpM-7" value="작성일" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1RqdT5DitXX3wgnCchq0-1">
           <mxGeometry x="1560" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ikFihaIRC0mjorbZHWEY-0" value="주문상품정보" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1RqdT5DitXX3wgnCchq0-1">
+          <mxGeometry x="1046" y="698" width="74" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
