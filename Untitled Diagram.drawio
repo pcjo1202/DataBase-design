@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T07:53:26.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="BDxo1l_KP-2S1GkouaYy" version="17.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-08T05:20:07.409Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="QmSZIMC84OhW7_oDxtOl" version="17.4.0" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1161" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1193,14 +1193,14 @@
     </mxGraphModel>
   </diagram>
   <diagram name="새로만든ER" id="2GzLH_4WIciSw14zlZM8">
-    <mxGraphModel dx="1161" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="1RqdT5DitXX3wgnCchq0-0" />
         <mxCell id="1RqdT5DitXX3wgnCchq0-1" parent="1RqdT5DitXX3wgnCchq0-0" />
         <mxCell id="1RqdT5DitXX3wgnCchq0-2" value="&lt;h1&gt;온라인 쇼핑몰 (의류) ERD - 3팀 (디비디비딥)&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;- 장민형&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;- 박창조&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;- 이지원&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;- 정환희&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#1A1A1A;sketch=1;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
           <mxGeometry x="30" y="15" width="490" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="1alLmAWfId7Hvp0BFkXp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" parent="1RqdT5DitXX3wgnCchq0-1" source="1RqdT5DitXX3wgnCchq0-5" target="1RqdT5DitXX3wgnCchq0-66" edge="1">
+        <mxCell id="1alLmAWfId7Hvp0BFkXp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=ERoneToMany;endFill=0;" parent="1RqdT5DitXX3wgnCchq0-1" source="1RqdT5DitXX3wgnCchq0-5" target="1RqdT5DitXX3wgnCchq0-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1alLmAWfId7Hvp0BFkXp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=ERzeroToMany;endFill=0;" parent="1RqdT5DitXX3wgnCchq0-1" source="1RqdT5DitXX3wgnCchq0-5" target="1RqdT5DitXX3wgnCchq0-95" edge="1">
@@ -1528,7 +1528,7 @@
         <mxCell id="5IhP2NH6ctQPZvxbodpM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERzeroToMany;startFill=0;endArrow=none;endFill=0;" parent="1RqdT5DitXX3wgnCchq0-1" source="jRxlZ2UjgmNIvabTEQ_5-38" target="jRxlZ2UjgmNIvabTEQ_5-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jRxlZ2UjgmNIvabTEQ_5-38" value="게시판" style="whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
+        <mxCell id="jRxlZ2UjgmNIvabTEQ_5-38" value="게시글" style="whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
           <mxGeometry x="1323.5" y="558.75" width="100" height="51.25" as="geometry" />
         </mxCell>
         <mxCell id="1alLmAWfId7Hvp0BFkXp-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;rounded=0;" parent="1RqdT5DitXX3wgnCchq0-1" source="U8tkCvm4xsglyttxilWT-0" target="1RqdT5DitXX3wgnCchq0-66" edge="1">
