@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T07:44:02.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="rgwSggNx1fpSlw9-Ev4W" version="17.4.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-09T08:04:50.919Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="p-5a8hYDwpDZhK_3QaB5" version="17.4.1" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1426" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1193,7 +1193,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="새로만든ER" id="2GzLH_4WIciSw14zlZM8">
-    <mxGraphModel dx="1783" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="1RqdT5DitXX3wgnCchq0-0" />
         <mxCell id="1RqdT5DitXX3wgnCchq0-1" parent="1RqdT5DitXX3wgnCchq0-0" />
@@ -1684,17 +1684,17 @@
         <mxCell id="6SbSudKhcVI_2ieuht1W-21" value="게시글ID" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;verticalAlign=middle;fontStyle=4" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
           <mxGeometry x="1227" y="481" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JxLSs-hLvUCu5xMw9XMQ-0" value="제목" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
+        <mxCell id="JxLSs-hLvUCu5xMw9XMQ-0" value="상품번호" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
           <mxGeometry x="1287" y="481" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JxLSs-hLvUCu5xMw9XMQ-2" value="이미지" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
-          <mxGeometry x="1463" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="1526" y="479" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JxLSs-hLvUCu5xMw9XMQ-3" value="조회수" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
-          <mxGeometry x="1523" y="481" width="60" height="30" as="geometry" />
+          <mxGeometry x="1586" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JxLSs-hLvUCu5xMw9XMQ-6" value="내용" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
-          <mxGeometry x="1347" y="481" width="60" height="30" as="geometry" />
+        <mxCell id="JxLSs-hLvUCu5xMw9XMQ-6" value="글내용" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
+          <mxGeometry x="1410" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JxLSs-hLvUCu5xMw9XMQ-14" value="제조업체ID" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
           <mxGeometry x="245" y="698.63" width="60" height="30" as="geometry" />
@@ -1715,7 +1715,7 @@
           <mxGeometry x="245" y="795.88" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5IhP2NH6ctQPZvxbodpM-7" value="작성일" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
-          <mxGeometry x="1583" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="1646" y="479" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ikFihaIRC0mjorbZHWEY-0" value="주문상품정보" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
           <mxGeometry x="1073.5" y="644" width="74" height="30" as="geometry" />
@@ -1733,7 +1733,7 @@
           <mxGeometry x="280" y="588.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kgK9Ckpx1UOBIa16PYm6-1" value="작성자" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1RqdT5DitXX3wgnCchq0-1" vertex="1">
-          <mxGeometry x="1407" y="481" width="60" height="30" as="geometry" />
+          <mxGeometry x="1470" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IOsTeBgIPz911xkN3ERZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1RqdT5DitXX3wgnCchq0-1" source="B934PMHJiDelhOXOBaXx-0" target="IOsTeBgIPz911xkN3ERZ-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1755,6 +1755,9 @@
         </mxCell>
         <mxCell id="PiyawqMSOVcD-JBkFYxO-5" value="센터장" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1RqdT5DitXX3wgnCchq0-1">
           <mxGeometry x="662.5" y="511" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PiyawqMSOVcD-JBkFYxO-7" value="글제목" style="ellipse;whiteSpace=wrap;html=1;align=center;rounded=0;sketch=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1RqdT5DitXX3wgnCchq0-1">
+          <mxGeometry x="1347" y="481" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
